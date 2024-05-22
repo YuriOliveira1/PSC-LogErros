@@ -4,6 +4,7 @@ Nesta proposta de projeto utilizei como base o programa que mostrei hoje em Aula
 
 Criei um arquivo de Logs para capturar alguns erros principalmente na parte de validar uma opção caso o usuario digite uma String e não um numero Inteiro, na Log mostro apenas o Stack Trace e tambem ela pega qualquer tipo de Exceção e irá mostrar na minha Log.
 
+Na Classe Price quis utilizar um Vetor apenas para pratica.
 
 Segue Abaixo um Exemplo de uma Exceção Capturada
 
