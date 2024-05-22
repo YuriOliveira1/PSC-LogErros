@@ -9,5 +9,5 @@ Segue Abaixo um Exemplo de uma Exceção Capturada
 
 Exceção: InputMismatchException
 
-![Exemplo Terminal] (file:///C:/Users/firey/Downloads/65d524e4-0129-47b7-a9dc-35121a4f7119.jfif)
-![Exemplo da Log] (file:///C:/Users/firey/Downloads/8942b4f0-4205-4db0-9380-94c4e28da5b5.jfif)
+![Exemplo Terminal](https://github.com/YuriOliveira1/PSC-LogErros/assets/161542848/aa7e2cf2-c4a3-435e-ab5f-4d90106e1e07)
+![Log](https://github.com/YuriOliveira1/PSC-LogErros/assets/161542848/e79403fb-2939-43e2-a956-79ca7141d1bc)
